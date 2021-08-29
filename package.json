@@ -1,0 +1,12 @@
+{
+  "name": "passport-github-auth",
+  "version": "1.0.0",
+  "main": "server.js",
+  "license": "MIT",
+  "dependencies": {
+    "cookie-session": "^1.4.0",
+    "express": "^4.17.1",
+    "passport": "^0.4.1",
+    "passport-github": "^1.1.0"
+  }
+}
